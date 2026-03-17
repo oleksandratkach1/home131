@@ -1,0 +1,2 @@
+Maximal area: 1385.4424
+Maximal perimeter: 131.9469
